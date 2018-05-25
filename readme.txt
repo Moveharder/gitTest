@@ -9,3 +9,6 @@ git tracks changes of files.
 git push -u origin ..
 
 create a new branch is quick.
+
+creating a new branch is quic AND simple.
+
