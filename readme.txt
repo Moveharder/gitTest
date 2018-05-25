@@ -10,5 +10,5 @@ git push -u origin ..
 
 create a new branch is quick.
 
-creating a new branck is quick & simple.
+creating a new branck is quic and simple.
 
