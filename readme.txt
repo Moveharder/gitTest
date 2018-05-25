@@ -6,4 +6,6 @@ git has a mutable index called stage.
 
 git tracks changes of files.
 
-git push -u origin ...
+git push -u origin ..
+
+create a new branch is quick.
