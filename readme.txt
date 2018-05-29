@@ -9,3 +9,7 @@ git tracks changes of files.
 git push -u origin ..
 
 create a new branch is quick.
+
+manage branches stridage.
+
+switched to a new branch 'dev'.
