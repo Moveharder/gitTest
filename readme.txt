@@ -15,3 +15,5 @@ manage branches stridage.
 switched to a new branch 'dev'.
 
 new switched to a new branch 'dev'.
+
+push dev branch.
