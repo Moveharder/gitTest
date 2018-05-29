@@ -15,3 +15,5 @@ creating a new branck is quic and simple.
 manage branches stridage.
 
 switched to a new branch 'dev'.
+
+new switched to a new branch 'dev'.
