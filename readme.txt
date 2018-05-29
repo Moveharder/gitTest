@@ -12,3 +12,6 @@ create a new branch is quick.
 
 creating a new branck is quic and simple.
 
+manage branches stridage.
+
+switched to a new branch 'dev'.
